@@ -1,0 +1,16 @@
+2c2
+< echo "------SUM OF N NUMBERS IN SHELL SCRIPT-----"
+---
+> echo "------SUM OF N NUMBERS AND FACTORIAL IN SHELL SCRIPT-----"
+6a7
+> fact=1
+8a10
+> 	# for sum
+9a12,14
+> 	# for factorial
+> 	fact=$((fact*t))
+> 	
+12a18,20
+> 
+> echo "factorial of $digit: $fact "
+> 
