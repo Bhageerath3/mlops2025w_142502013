@@ -1,0 +1,19 @@
+[resnet34]
+learning_rates = [0.1, 0.01, 0.001]
+optimizers = ["adam", "sgd"]
+momentums = [0.5, 0.9]
+
+[resnet50]
+learning_rates = [0.1, 0.01, 0.001]
+optimizers = ["adam", "sgd"]
+momentums = [0.5, 0.9]
+
+[resnet101]
+learning_rates = [0.1, 0.01, 0.001]
+optimizers = ["adam", "sgd"]
+momentums = [0.5, 0.9]
+
+[resnet152]
+learning_rates = [0.1, 0.01, 0.001]
+optimizers = ["adam", "sgd"]
+momentums = [0.5, 0.9]
